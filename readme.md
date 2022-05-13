@@ -1,4 +1,6 @@
-# Binary-similarity-matching 
+# Binary-code-similarity-matching 
+
+This repository contains the code we engineered for our research on "Binary Code similarity matching" for COMP5214 Course Project. 
 
 # Remark and caustion
 
